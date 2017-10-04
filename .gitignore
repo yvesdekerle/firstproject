@@ -1,0 +1,26 @@
+#Maven
+target/
+logs/
+.mvn
+
+# Eclipse
+.metadata
+.settings/
+.classpath
+.project
+*.launch
+
+# Idea
+.idea/
+*.iml
+
+#sonar
+.sonar
+sonar.properties
+sonar-project.properties
+#source genere a partir d un wsdl megadrive
+*/generated-sources/
+
+#Divers
+ignored/
+Servers*
